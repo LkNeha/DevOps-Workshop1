@@ -7,7 +7,7 @@ all:
       hosts:
         foo.example.com:
           ansible_connection: local
-    dbserver:
+    schoolserver:
       hosts:
         bar.example.com:
           ansible_connection: local
